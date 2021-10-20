@@ -6,3 +6,4 @@ CREATE TABLE "users" (
     "avatar_url" TEXT NOT NULL,
     "login" TEXT NOT NULL
 );
+
